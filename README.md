@@ -16,3 +16,5 @@ This tool is a simplified example and is intended for educational purposes only.
 
 1. Clone the repository:
    ```git clone https://github.com/vm32/FATFileRecoveryPy.git```
+
+![alt text](https://img001.prntscr.com/file/img001/aJoa9v6ySr-NLfpIA48C7Q.png)
