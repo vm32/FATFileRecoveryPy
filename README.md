@@ -18,7 +18,7 @@ This tool is a simplified example and is intended for educational purposes only.
    ```git clone https://github.com/vm32/FATFileRecoveryPy.git```
 ## FAT Directory Entry Status
 
-In the FAT file system, each file or directory has an associated directory entry stored in the root directory or in another directory. The first byte of the directory entry is used to store the file's status. Here are some of the possible values for this byte and their meanings:
+In the FAT file system, each file or directory has an associated directory entry stored in the root directory or in another directory. The first byte of the directory entry is used to store the file's status. Here are some of the possible values for this byte and   their meanings:
 
 | Hex Value | Description |
 |-----------|-------------|
