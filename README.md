@@ -39,4 +39,6 @@ In addition to the first byte, there are other attributes and flags in the direc
 | 4   | Directory | Entry is a subdirectory. |
 | 5   | Archive   | File has been modified since last backup. |
 
+## Image
+
 ![alt text](https://img001.prntscr.com/file/img001/aJoa9v6ySr-NLfpIA48C7Q.png)
