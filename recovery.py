@@ -1,7 +1,7 @@
 import os
 import struct
 image_path = "path_to_your_fat_image.img"
-# Open the FAT image in binary read mode
+# Open the FAT image in binary read mode 'FTKimager'
 with open(image_path, "rb") as image:
     boot_sector = image.read(512)
     bytes_per_sector = struct.unpack("<H", boot_sector[11:13])[0]
