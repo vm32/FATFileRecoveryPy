@@ -42,5 +42,3 @@ In addition to the first byte, there are other attributes and flags in the direc
 ## Image
 
 ![alt text](https://img001.prntscr.com/file/img001/aJoa9v6ySr-NLfpIA48C7Q.png)
-
-
